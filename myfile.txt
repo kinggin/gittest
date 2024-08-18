@@ -2,3 +2,4 @@ Anyone can learn Git with this tutorial and Backlog
 add: Register a change in an index
 append by issue
 pull: Obtain the content of the remote repository
+commit: Save the status of an index
